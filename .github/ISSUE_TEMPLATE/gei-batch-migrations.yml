@@ -44,7 +44,6 @@ body:
       description: Select the GitHub instance you're migrating FROM
       options:
         - "GHEC"
-        - "GHES"
       default: 0
     validations:
       required: true
