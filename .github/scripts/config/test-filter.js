@@ -5,7 +5,7 @@ const mockContext = {
   payload: {
     issue: {
       user: {
-        login: 'cvega' // Change this to test different users
+        login: 'abcgxp' // Change this to test different users
       }
     }
   }
